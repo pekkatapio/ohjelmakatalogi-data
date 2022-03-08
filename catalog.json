@@ -1,0 +1,24 @@
+[
+  { "id":"1",
+    "name":"Visual Studio Code",
+    "homepage":"https://code.visualstudio.com/",
+    "desc":"Visual Studio Code on monipuolinen ja kevytrakenteinen ohjelmointiin soveltuva tekstieditori, joka sisältää tuen mm. virheenjäjitykselle, koodin korostamiselle ja Git-versiohallinnalle. Sovelluksessa asennettavilla lisäosilla editorin toimintaa voidaan laajentaa lähes loputtomasti.",
+    "icon":"https://raw.githubusercontent.com/pekkatapio/ohjelmakatalogi-data/main/icons/vscode.svg",
+    "system":["Windows","OSX","Linux"],
+    "usergroup":["Opiskelijat","Henkilökunta"],
+    "category":["Ohjelmointi"],
+    "license":"ilmainen",
+    "modified":"2022-03-08T010:59:44Z"
+  },
+  { "id":"2",
+    "name":"Node.js",
+    "homepage":"https://nodejs.org/",
+    "desc":"Node.js on JavaScript-koodin suoritusympäristö, jossa ohjelmakoodi voidaan suorittaa ilman web-selainta. Node.js mahdollistaa JavaScript-pohjaisten komentorivityökalujen ja palvelinsovellusten toteuttamisen.",
+    "icon":"https://raw.githubusercontent.com/pekkatapio/ohjelmakatalogi-data/main/icons/nodejs.svg",
+    "system":["Windows","OSX","Linux"],
+    "usergroup":["Opiskelijat","Henkilökunta"],
+    "category":["Ohjelmointi"],
+    "license":"ilmainen",
+    "modified":"2022-03-08T011:08:44Z"
+  }  
+]
