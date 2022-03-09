@@ -31,5 +31,16 @@
     "category":["Virtualisointi"],
     "license":"ilmainen",
     "modified":"2022-03-09T08:08:44Z"
+  },
+  { "id":"4",
+    "name":"VLC media player",
+    "homepage":"https://www.videolan.org/",
+    "desc":"VLC media player on multimediasoitin, joka tukee yleisimpiä audio- ja videoformaatteja. Se toistaa myös DVD-levyjä.",
+    "icon":"https://raw.githubusercontent.com/pekkatapio/ohjelmakatalogi-data/main/icons/vlc.png",
+    "system":["Windows","OSX","Linux","Android"],
+    "usergroup":["Opiskelijat","Henkilökunta"],
+    "category":["Audio/video"],
+    "license":"ilmainen",
+    "modified":"2022-03-09T15:04:12Z"
   }
 ]
