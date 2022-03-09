@@ -42,5 +42,16 @@
     "category":["Audio/video"],
     "license":"ilmainen",
     "modified":"2022-03-09T15:04:12Z"
-  }
+  },
+  { "id":"5",
+    "name":"Inkscape",
+    "homepage":"https://inkscape.org/",
+    "desc":"Inkscape on kevytrakenteinen ja helppokäyttöinen vektorigrafiikkaohjelma, joka tukee SVG-grafiikkamuotoa.",
+    "icon":"https://raw.githubusercontent.com/pekkatapio/ohjelmakatalogi-data/main/icons/inkscape.png",
+    "system":["Windows","OSX","Linux"],
+    "usergroup":["Opiskelijat"],
+    "category":["Grafiikka"],
+    "license":"ilmainen",
+    "modified":"2022-03-09T15:20:02Z"
+  },  
 ]
