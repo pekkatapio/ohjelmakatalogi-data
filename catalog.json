@@ -8,7 +8,7 @@
     "usergroup":["Opiskelijat","Henkilökunta"],
     "category":["Ohjelmointi"],
     "license":"ilmainen",
-    "modified":"2022-03-08T010:59:44Z"
+    "modified":"2022-03-08T10:59:44Z"
   },
   { "id":"2",
     "name":"Node.js",
@@ -19,6 +19,17 @@
     "usergroup":["Opiskelijat","Henkilökunta"],
     "category":["Ohjelmointi"],
     "license":"ilmainen",
-    "modified":"2022-03-08T011:08:44Z"
-  }  
+    "modified":"2022-03-08T11:08:44Z"
+  },
+  { "id":"3",
+    "name":"Oracle VM VirtualBox",
+    "homepage":"https://www.virtualbox.org/",
+    "desc":"VirtualBox on käyttöjärjestelmien virtualisoimiseen soveltuva tietokoneohjelma. Se on käytettävyydeltään helpompi ja rakenteeltaan kevyempi, kuin monet yritysmaailmassa käytettävät virtualisointiympäristöt.",
+    "icon":"https://raw.githubusercontent.com/pekkatapio/ohjelmakatalogi-data/main/icons/virtualbox.png",
+    "system":["Windows","OSX","Linux"],
+    "usergroup":["Opiskelijat"],
+    "category":["Virtualisointi"],
+    "license":"ilmainen",
+    "modified":"2022-03-09T08:08:44Z"
+  }
 ]
