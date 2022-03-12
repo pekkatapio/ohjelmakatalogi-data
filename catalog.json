@@ -53,5 +53,16 @@
     "category":["Grafiikka"],
     "license":"ilmainen",
     "modified":"2022-03-09T15:20:02Z"
-  } 
+  },
+  { "id":"6",
+    "name":"Git",
+    "homepage":"https://git-scm.com/",
+    "desc":"Git on hajautettu versiohallintajärjestelmä, johon on sisäänrakennettu tuki mm. Visual Studio Codessa.",
+    "icon":"https://raw.githubusercontent.com/pekkatapio/ohjelmakatalogi-data/main/icons/git.png",
+    "system":["Windows","OSX","Linux"],
+    "usergroup":["Opiskelijat"],
+    "category":["Ohjelmointi"],
+    "license":"ilmainen",
+    "modified":"2022-03-12T07:49:45Z"
+  }  
 ]
